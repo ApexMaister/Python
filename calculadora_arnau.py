@@ -5,17 +5,22 @@ import os
 os.system('clear')
 
 
-print "CALCULATOR 2000 xD_____________________ by ApexMaister"
+print "Que desea hacer el amo?"
 print " "
+print "S-  Sortir de la Calculadora"
 print "1-  Sumar"
 print "2-  Restar"
 print "3-  Multiplicar"
 print "4-  Dividir"
-print "e-  Sortir de la Calculadora"
+
 print " "
 
 ordre = raw_input("Escull una opcio:  ")
 
+if ( ordre >= "1" and <= "4" or ( ordre == "s") or ( ordre == "S")
+
+else
+    print "Incorrecte"
 
 if ordre == "1" :
 
@@ -74,6 +79,6 @@ if ordre == "4" :
     print numero1 / numero2
 
 
-if ordre == "e":
+if ordre == "S":
 
     exit
