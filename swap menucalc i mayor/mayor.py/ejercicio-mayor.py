@@ -13,3 +13,4 @@ os.system('clear')
 valor2 = input("Posa un Altre Numero")
 
 if 
+#no el tinc fet
