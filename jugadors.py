@@ -33,5 +33,4 @@ if jugador1 == "pi" and jugador2 == "ti":
 	
 	
 if jugador1 == "s" or jugador1 == "S":
-	
 	sortir = True
