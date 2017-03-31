@@ -24,13 +24,14 @@ if jugador1 == "ti" and jugador2 == "pi":
 if jugador1 == "pa" and jugador2 == "pi":
 	print "Player 1 wins"
 	
-if jugador1 == "ti" and jugador2 == "pa"
+if jugador1 == "ti" and jugador2 == "pa":
 	print "Player 1 wins"
 	
-if jugador1 == "pi" and jugador2 == "ti"
+if jugador1 == "pi" and jugador2 == "ti":
 	print "Player 1 wins"
 	
 	
 	
-if jugador1 == "s" or jugador1 == "S"
+if jugador1 == "s" or jugador1 == "S":
+	
 	sortir = True
