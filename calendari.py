@@ -2,8 +2,8 @@
 def my_range(inici, fi, increment):
 	
   while inici <=fi:
-		yield inici
-		inici=inici + increment
+	yield inici
+	inici=inici + increment
 
 
 
